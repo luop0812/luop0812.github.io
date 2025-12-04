@@ -4,6 +4,6 @@
 
 layout: home
 header:
-  image: assets/images/ping-homepage-banner.png 
+  image: assets/images/ping-homepage-banner.jpg
 ---
 
