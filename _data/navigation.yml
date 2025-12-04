@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "Documentation"
-    url: /docs/misha-intro/
-  - title: "Events"
+# - title: "Documentation"
+#   url: /docs/misha-intro/
+  - title: "Posts"
     url: /year-archive/
 
 # documentation links
